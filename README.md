@@ -1,2 +1,3 @@
 # berry-assets
-Assets for this project
+
+Assets for the BerryRemote project.
